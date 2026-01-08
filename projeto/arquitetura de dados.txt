@@ -1,0 +1,16 @@
+Extrair dados;
+Pesquisas:
+	eleição:
+		cargo;
+		data da eleição;
+		resultado;
+		instituto:
+			Nome do instituto
+			pesquisas:
+				data da pesquisa;
+				tamanho da amostra;
+				Metodologia de pesquisa;
+				candidatos:
+					nome;
+					partido;
+					percentual na pesquisa;
