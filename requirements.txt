@@ -1,2 +1,4 @@
 pandas
 notebook
+selenium
+webdriver-manager

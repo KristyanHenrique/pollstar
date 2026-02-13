@@ -1,0 +1,3 @@
+cd_cargo;ds_cargo;nr_candidato;nm_candidato;nm_urna_candidato;sg_partido;ds_composicao_coligacao;nr_turno;ds_sit_totalizacao;dt_ult_totalizacao;sg_ue;sq_candidato;nm_tipo_destinacao_votos;sq_eleicao_divulga;aa_eleicao;pc_votos_validos;qt_votos_nom_validos;qt_votos_concorrentes
+1;Presidente;13;LUIZ INÁCIO LULA DA SILVA;LULA;PT;Federação Brasil da Esperança - FE BRASIL(PT/PC do B/PV) / SOLIDARIEDADE / Federação PSOL REDE(PSOL/REDE) / PSB / AGIR / AVANTE / PROS;2;Eleito;2022-10-31 00:28:52;BR;280001607829;Válido;2040602022;2022;0,509;60345999;118552353
+1;Presidente;22;JAIR MESSIAS BOLSONARO;JAIR BOLSONARO;PL;PP / REPUBLICANOS / PL;2;Não Eleito;2022-10-31 00:28:52;BR;280001618036;Válido;2040602022;2022;0,491;58206354;118552353
